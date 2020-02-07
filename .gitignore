@@ -61,4 +61,4 @@ typings/
 .next
 
 # public build
-/public
+public/
